@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omiscom
-- 👀 I’m web Developer using HTML, CSS, Javascript, React, Figma, Bubble for a frontend and Nodejs Reactjs & Java, JSP, Hibernate, Spring as BackEnd
-- 🌱 I’m currently learning React, Java Springboot
+- 👀 I’m a fullstack Web Developer uding HTML, CSS, Javascript, Typescript, Nodejs, Reactjs, Nextjs
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Javascript and Java code
 - 📫 How to reach me 08114175313 (Whatsapp) omikunleqomorudeen@gmail.com (mail)
 - Linkedin Omikunle Olukunmi Qumarudeen
